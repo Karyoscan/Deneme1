@@ -18,7 +18,7 @@ function App() {
            
          </a>
 
-<a href='https://karyoscan.github.io/Deneme1/ '>tikla </a>
+   <a href='https://karyoscan.github.io/Deneme1/ '>tikla </a>
         
       </header>
     </div>
