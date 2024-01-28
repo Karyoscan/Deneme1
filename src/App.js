@@ -15,8 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
+           
+         </a>
+
+<a href='https://karyoscan.github.io/Deneme1/ '>tikla </a>
+        
       </header>
     </div>
   );
